@@ -62,8 +62,7 @@ namespace GameProject
             SaleManagement salemanagement = new SaleManagement();
             salemanagement.Buy(gamer1, campaign1, game3); 
             salemanagement.Buy(gamer2, campaign2, game1); 
-          
-           
+                     
         }
     }
 }
