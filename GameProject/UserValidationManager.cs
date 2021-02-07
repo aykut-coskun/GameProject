@@ -12,7 +12,7 @@ namespace GameProject
         { //Burada eğer doğruysa true yanlışsa false döndüreceğiz. 
           //O yüzden IUserValidationService'teki imzayı 'bool' olarak değiştiriyoruz.
             
-            if (gamer.BirthYear == 1991 && gamer.FirstName == "AYKUT" && gamer.LastName == "COŞKUN" && gamer.IdentityNumber == 123456) 
+            if (gamer.BirthYear == 1991 && gamer.FirstName == "AYKUT" && gamer.LastName == "COŞKUN" && gamer.IdentityNumber == 123456)  
             {
                 return true;
             }

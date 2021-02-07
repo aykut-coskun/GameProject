@@ -15,7 +15,7 @@ namespace GameProject
     {
         IUserValidationService _userValidationService;
 
-        public GamerManager(IUserValidationService userValidationService)
+        public GamerManager(IUserValidationService userValidationService) 
         {
             _userValidationService = userValidationService;
         }

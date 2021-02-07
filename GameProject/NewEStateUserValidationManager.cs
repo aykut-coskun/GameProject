@@ -7,7 +7,7 @@ namespace GameProject
     //Bu yeni e-devlet sistemi
     class NewEStateUserValidationManager : IUserValidationService
     {
-        public bool Validate(Gamer gamer)
+        public bool Validate(Gamer gamer) 
         {
             return true; 
         }

@@ -6,7 +6,7 @@ namespace GameProject
 {
     interface ISaleService
     {
-        void Buy(Gamer gamer, Campaign campaign, Games games); 
+        void Buy(Gamer gamer, Campaign campaign, Games games);  
 
     }
 }
