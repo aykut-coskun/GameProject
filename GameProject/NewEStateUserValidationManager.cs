@@ -9,7 +9,7 @@ namespace GameProject
     {
         public bool Validate(Gamer gamer)
         {
-            return true;
+            return true; 
         }
     }
 }

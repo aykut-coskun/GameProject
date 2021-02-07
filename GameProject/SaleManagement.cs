@@ -8,7 +8,7 @@ namespace GameProject
     {
         public void Buy(Gamer gamer, Campaign campaign, Games games)
         {
-            Console.WriteLine("Adı : " + gamer.FirstName + " olan oyuncu "  + campaign.CampaignName + " kampanyası ile " +  games.GameName + " oyununu aldı ");
+            Console.WriteLine("Adı : " + gamer.FirstName + " olan oyuncu "  + campaign.CampaignName + " kampanyası ile " +  games.GameName + " oyununu aldı "); 
         }
     }
 }

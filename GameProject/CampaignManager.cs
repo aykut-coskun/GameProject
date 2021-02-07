@@ -18,7 +18,7 @@ namespace GameProject
 
         public void Update(Campaign campaign)
         {
-            Console.WriteLine("Kampanya güncellendi : " + campaign.CampaignName);
+            Console.WriteLine("Kampanya güncellendi : " + campaign.CampaignName); 
         }
     }
 }

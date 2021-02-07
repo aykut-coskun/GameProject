@@ -7,6 +7,6 @@ namespace GameProject
     class Sale
     {
         public string Game { get; set; }
-        public string Gamer { get; set; }
+        public string Gamer { get; set; } 
     }
 }

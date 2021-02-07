@@ -28,7 +28,7 @@ namespace GameProject
             }
             else
             {
-                Console.WriteLine("Doğrulama başarısız. Kayıt başarısız");
+                Console.WriteLine("Doğrulama başarısız. Kayıt başarısız"); 
             }
             
         }

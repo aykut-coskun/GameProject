@@ -7,7 +7,7 @@ namespace GameProject
     class Campaign
     {
         public int CampaignId { get; set; }
-        public string CampaignName { get; set; }
+        public string CampaignName { get; set; } 
         public string CampaignDetails { get; set; }
         public int RateofDiscount { get; set; }
     }

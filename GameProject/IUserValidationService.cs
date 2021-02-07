@@ -7,6 +7,6 @@ namespace GameProject
     //Validate: Doğrulamak
     interface IUserValidationService
     {
-        bool Validate(Gamer gamer);
+        bool Validate(Gamer gamer); 
     }
 }
