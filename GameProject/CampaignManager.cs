@@ -8,7 +8,7 @@ namespace GameProject
     {
         public void Add(Campaign campaign)
         {
-            Console.WriteLine("Kampanya eklendi : " + campaign.CampaignName );
+            Console.WriteLine("Kampanya eklendi : " + campaign.CampaignName);
         }
 
         public void Delete(Campaign campaign)
