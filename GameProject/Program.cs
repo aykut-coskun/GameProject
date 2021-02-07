@@ -29,7 +29,7 @@ namespace GameProject
             campaignmanager.Add(campaign2);
             campaignmanager.Update(campaign2);
 
-            Console.WriteLine();
+            Console.WriteLine(); 
 
             Gamer gamer1 = new Gamer() 
             { 
